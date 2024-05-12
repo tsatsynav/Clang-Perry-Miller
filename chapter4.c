@@ -2,10 +2,11 @@
 Student: Andrey Tsatsyn
 Level: begginer
 Course: C Programming (Absolute begginer's guide). Greg Perry, Dean Miller. (book)
-File's description: testing code::blocks and some constructions
+File's description: printf(), escape sequences, format specifiers
 of C lang. Chapter 4 of book.
 Telegram: https://t.me/TsatsynAV
 E-mail: tsatsynav@yandex.ru
+GitHub: https://github.com/tsatsynav
 IDE: Code::Blocks
 OS Name: Debian 12 (bookworm)
 OS Type: 64-bit
@@ -24,8 +25,8 @@ CDE: Xfce
 // \b - backspace;
 // \t - tab;
 // \\ - output "\" symbol;
-// \' - output singl brackets;
-// \" - output double brackets;
+// \' - output single quotes;
+// \" - output double quotes;
 
 #include <stdio.h>
 

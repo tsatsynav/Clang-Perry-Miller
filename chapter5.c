@@ -2,10 +2,11 @@
 Student: Andrey Tsatsyn
 Level: begginer
 Course: C Programming (Absolute begginer's guide). Greg Perry, Dean Miller. (book)
-File's description: testing code::blocks and some constructions
+File's description: types, variables
 of C lang. Chapter 5 of book.
 Telegram: https://t.me/TsatsynAV
 E-mail: tsatsynav@yandex.ru
+GitHub: https://github.com/tsatsynav
 IDE: Code::Blocks
 OS Name: Debian 12 (bookworm)
 OS Type: 64-bit

@@ -6,6 +6,7 @@ File's description: testing code::blocks and some constructions
 of C lang. Chapter 1-3 of book.
 Telegram: https://t.me/TsatsynAV
 E-mail: tsatsynav@yandex.ru
+GitHub: https://github.com/tsatsynav
 IDE: Code::Blocks
 OS Name: Debian 12 (bookworm)
 OS Type: 64-bit
